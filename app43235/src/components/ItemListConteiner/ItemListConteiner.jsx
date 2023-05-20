@@ -7,11 +7,11 @@ const ItemListConteiner = ({greeting}) => {
     <h1 class="d-flex justify-content-center">
         {greeting}
     </h1>
-    <div class="d-flex justify-content-center"> <img src={images2} class="img-fluid " alt="images2-widget" />
-    <img src={images2} class="img-fluid" alt="images2-widget" />
-    <img src={images2} class="img-fluid" alt="images2-widget" />
-    <img src={images2} class="img-fluid" alt="images2-widget" />
-    <img src={images2} class="img-fluid" alt="images2-widget" />
+    <div class="d-flex justify-content-center">
+    <img src={images2} class="img-fluid w-25" alt="images2-widget" />
+    <img src={images2} class="img-fluid w-25" alt="images2-widget" />
+    <img src={images2} class="img-fluid w-25" alt="images2-widget" />
+    <img src={images2} class="img-fluid w-25" alt="images2-widget" />
     </div>
    
 
